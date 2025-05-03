@@ -340,10 +340,3 @@ bierner.markdown-mermaid
   }
 ]
 ```
-
-## Past Themes
-
-* Original theme I use in some videos:
-  * [Seti-Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai)
-* I used this darker modification of the above theme for a few videos:
-  * [Seti-Black](https://marketplace.visualstudio.com/items?itemName=bobsparadox.seti-black)
